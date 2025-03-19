@@ -39,13 +39,13 @@ This repository aggregates top-tier books, seminal papers, and practical online 
 ## The Insight Weaver
 **Focus:** Crafting compelling data narratives  
 **Key Resource:** [*Storytelling with Data* by Cole Nussbaumer Knaflic](https://www.google.com/books/edition/Storytelling_with_Data/rRSRCgAAQBAJ?hl=en&gbpv=1&printsec=frontcover) 
-Learn how to transform complex data into engaging stories that drive impact.
+<p>Learn how to transform complex data into engaging stories that drive impact.</p>
 
 ## The Insight Weaver
 **Focus:** Crafting compelling data narratives  
 <img src="images/Storytelling%20with%20Data-%20A%20Data%20Visualization%20Guide%20for%20Business%20Professionals.jpg" alt="Storytelling with Data" width="150" align="left"/>
 <br clear="left"/>
-Storytelling with Data
+<p>Storytelling with Data</p>
 
 
 ## The Anomaly Hunter
