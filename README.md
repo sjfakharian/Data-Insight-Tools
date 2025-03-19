@@ -48,7 +48,7 @@ This repository aggregates top-tier books, seminal papers, and practical online 
 **Focus:** Detecting outliers and irregularities  
 **Key Resource:** [“Anomaly Detection: A Survey” by Chandola et al. (2009)](http://cucis.ece.northwestern.edu/projects/DMS/publications/AnomalyDetection.pdf)
 <br><br>
-<img src="images/AnomalyDetection.jpeg" alt="Storytelling with Data" width="150" align="left"/>
+<img src="images/AnomalyDetection.jpeg" alt="AnomalyDetection" width="150" align="left"/>
 <br clear="left"/>
 <p>Explore comprehensive techniques to uncover hidden risks in your data.</p>
 
@@ -56,7 +56,7 @@ This repository aggregates top-tier books, seminal papers, and practical online 
 **Focus:** Predicting future events  
 **Key Resource:** [*Forecasting: Principles and Practice* by Hyndman & Athanasopoulos](https://otexts.com/fpp3/index.html)
 <br><br>
-<img src="images/Forecasting-Principles-and-Practice.jpg" alt="Storytelling with Data" width="150" align="left"/>
+<img src="images/Forecasting-Principles-and-Practice.jpg" alt="Forecasting-Principles-and-Practice" width="150" align="left"/>
 <br clear="left"/>
 <p>Master modern forecasting techniques with practical examples in R.</p>
 
@@ -64,7 +64,7 @@ This repository aggregates top-tier books, seminal papers, and practical online 
 **Focus:** Data segmentation and clustering  
 **Key Resource:** [*Data Mining: Concepts and Techniques* by Han, Kamber, & Pei](https://myweb.sabanciuniv.edu/rdehkharghani/files/2016/02/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf)
 <br><br>
-<img src="images/Data-Mining-Concepts-and-Techniques.png" alt="Storytelling with Data" width="150" align="left"/>
+<img src="images/Data-Mining-Concepts-and-Techniques.jpeg" alt="Data-Mining-Concepts-and-Techniques" width="150" align="left"/>
 <br clear="left"/>
 <p>Dive into methodologies for discovering meaningful groups within your data.</p>
 
@@ -72,7 +72,7 @@ This repository aggregates top-tier books, seminal papers, and practical online 
 **Focus:** Uncovering associations and dependencies  
 **Key Resource:** [*Association rule mining chapter in *Data Mining: Concepts and Techniques*](https://myweb.sabanciuniv.edu/rdehkharghani/files/2016/02/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf)
 <br><br>
-<img src="images/Data-Mining-Concepts-and-Techniques.png" alt="Storytelling with Data" width="150" align="left"/>
+<img src="images/Data-Mining-Concepts-and-Techniques.jpeg" alt="Data-Mining-Concepts-and-Techniques" width="150" align="left"/>
 <br clear="left"/>
 <p>Learn to map relationships and uncover market basket insights.</p>
 
@@ -80,7 +80,7 @@ This repository aggregates top-tier books, seminal papers, and practical online 
 **Focus:** Inferring cause and effect  
 **Key Resource:** [*Causal Inference in Statistics: A Primer* by Pearl et al.](https://www.google.com/books/edition/Causal_Inference_in_Statistics/L3G-CgAAQBAJ?hl=en)
 <br><br>
-<img src="images/Causal-Inference-in-Statistics-A-Primer.webp" alt="Storytelling with Data" width="150" align="left"/>
+<img src="images/Causal-Inference-in-Statistics-A-Primer.webp" alt="Causal-Inference-in-Statistics-A-Primer" width="150" align="left"/>
 <br clear="left"/>
 <p>Understand the fundamentals of causal reasoning in data.</p>
 
@@ -88,7 +88,7 @@ This repository aggregates top-tier books, seminal papers, and practical online 
 **Focus:** Quantifying and managing risk  
 **Key Resource:** [*Quantitative Risk Management* by McNeil, Frey, & Embrechts](https://www.google.com/books/edition/Quantitative_Risk_Management/SfJnBgAAQBAJ?hl=en&gbpv=1&printsec=frontcover)
 <br><br>
-<img src="images/Quantitative-Risk-Management-Concepts-Techniques-and-Tools.jpg" alt="Storytelling with Data" width="150" align="left"/>
+<img src="images/Quantitative-Risk-Management-Concepts-Techniques-and-Tools.jpg" alt="Quantitative-Risk-Management-Concepts-Techniques-and-Tools" width="150" align="left"/>
 <br clear="left"/>
 <p>Gain deep insights into risk modeling for finance, insurance, and beyond.</p>
 
@@ -96,7 +96,7 @@ This repository aggregates top-tier books, seminal papers, and practical online 
 **Focus:** Identifying recurring patterns  
 **Key Resource:** [*Pattern Recognition and Machine Learning* by Bishop](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 <br><br>
-<img src="images/Pattern-Recognition-and-Machine-Learning.jpeg" alt="Storytelling with Data" width="150" align="left"/>
+<img src="images/Pattern-Recognition-and-Machine-Learning.jpeg" alt="Pattern-Recognition-and-Machine-Learning" width="150" align="left"/>
 <br clear="left"/>
 <p>Learn the mathematical foundations behind effective pattern detection.</p>
 
@@ -104,7 +104,7 @@ This repository aggregates top-tier books, seminal papers, and practical online 
 **Focus:** Extracting sentiment from text  
 **Key Resource:** [*Sentiment Analysis: Mining Opinions, Sentiments, and Emotions* by Bing Liu](https://www.cs.uic.edu/~liub/FBS/SentimentAnalysis-and-OpinionMining.pdf)
 <br><br>
-<img src="images/Sentiment-Analysis-Mining-Opinions-Sentiments-and-Emotions.jpg" alt="Storytelling with Data" width="150" align="left"/>
+<img src="images/Sentiment-Analysis-Mining-Opinions-Sentiments-and-Emotions.jpg" alt="Sentiment-Analysis-Mining-Opinions-Sentiments-and-Emotions" width="150" align="left"/>
 <br clear="left"/>
 <p>Get a comprehensive look at analyzing emotions in unstructured text.</p>
 
@@ -112,7 +112,7 @@ This repository aggregates top-tier books, seminal papers, and practical online 
 **Focus:** Modeling relationships in networks  
 **Key Resource:** [*Networks, Crowds, and Markets* by Easley & Kleinberg](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book.pdf)
 <br><br>
-<img src="images/Networks-Crowds-and-Markets-Reasoning-about-a-Highly-Connected-World.jpg" alt="Storytelling with Data" width="150" align="left"/>
+<img src="images/Networks-Crowds-and-Markets-Reasoning-about-a-Highly-Connected-World.jpg" alt="Networks-Crowds-and-Markets-Reasoning-about-a-Highly-Connected-World" width="150" align="left"/>
 <br clear="left"/>
 <p>Unravel the complexities of network structures and connectivity.</p>
 
@@ -120,7 +120,7 @@ This repository aggregates top-tier books, seminal papers, and practical online 
 **Focus:** Designing powerful predictive features  
 **Key Resource:** [*Feature Engineering for Machine Learning* by Zheng & Casari](https://www.google.com/books/edition/Feature_Engineering_for_Machine_Learning/sthSDwAAQBAJ?hl=en&gbpv=1&printsec=frontcover)
 <br><br>
-<img src="images/Feature-Engineering-for-Machine-Learning.jpg" alt="Storytelling with Data" width="150" align="left"/>
+<img src="images/Feature-Engineering-for-Machine-Learning.jpg" alt="Feature-Engineering-for-Machine-Learning" width="150" align="left"/>
 <br clear="left"/>
 <p>Enhance your models by transforming raw data into robust features.</p>
 
@@ -128,7 +128,7 @@ This repository aggregates top-tier books, seminal papers, and practical online 
 **Focus:** Identifying and mitigating bias  
 **Key Resource:** [*Fairness and Machine Learning* by Barocas, Hardt, & Narayanan](https://fairmlbook.org/)
 <br><br>
-<img src="images/Fairness-and-Machine-Learning.avif" alt="Storytelling with Data" width="150" align="left"/>
+<img src="images/Fairness-and-Machine-Learning.avif" alt="Fairness-and-Machine-Learning" width="150" align="left"/>
 <br clear="left"/>
 <p>Discover strategies to build fair and ethical AI systems.</p>
 
@@ -144,7 +144,7 @@ This repository aggregates top-tier books, seminal papers, and practical online 
 **Focus:** Data-driven decision making  
 **Key Resource:** [*Data Science for Business* by Provost & Fawcett](https://www.google.com/books/edition/Data_Science_for_Business/4ZctAAAAQBAJ?hl=en)
 <br><br>
-<img src="images/Data-Science-for-Business.jpeg" alt="Storytelling with Data" width="150" align="left"/>
+<img src="images/Data-Science-for-Business.jpeg" alt="Data-Science-for-Business" width="150" align="left"/>
 <br clear="left"/>
 <p>Bridge the gap between analytics and actionable business decisions.</p>
 
@@ -152,7 +152,7 @@ This repository aggregates top-tier books, seminal papers, and practical online 
 **Focus:** Managing uncertainty in predictions  
 **Key Resource:** [*Uncertainty Quantification* by Ralph C. Smith](https://rsmith.math.ncsu.edu/UQ_TIA/)
 <br><br>
-<img src="images/Uncertainty-Quantification-Theory.jpeg" alt="Storytelling with Data" width="150" align="left"/>
+<img src="images/Uncertainty-Quantification-Theory.jpeg" alt="Uncertainty-Quantification-Theory" width="150" align="left"/>
 <br clear="left"/>
 <p>Navigate the challenges of prediction errors and risk.</p>
 
@@ -160,7 +160,7 @@ This repository aggregates top-tier books, seminal papers, and practical online 
 **Focus:** Building iterative, adaptive systems  
 **Key Resource:** [*Continuous Delivery* by Humble & Farley](https://www.google.com/books/edition/Continuous_Delivery/6ADDuzere-YC?hl=en&gbpv=1&pg=PT29&printsec=frontcover)
 <br><br>
-<img src="images/Continuous-Delivery.jpg" alt="Storytelling with Data" width="150" align="left"/>
+<img src="images/Continuous-Delivery.jpg" alt="Continuous-Delivery" width="150" align="left"/>
 <br clear="left"/>
 <p>Design robust feedback systems to constantly improve performance.</p>
 
@@ -168,7 +168,7 @@ This repository aggregates top-tier books, seminal papers, and practical online 
 **Focus:** Ensuring ethical AI practices  
 **Key Resource:** [*Weapons of Math Destruction* by Cathy O’Neil](https://www.google.com/books/edition/Weapons_of_Math_Destruction/CxD-DAAAQBAJ?hl=en&gbpv=1&pg=PR3&printsec=frontcover)
 <br><br>
-<img src="images/Weapons-of-Math-Destruction.jpeg" alt="Storytelling with Data" width="150" align="left"/>
+<img src="images/Weapons-of-Math-Destruction.jpeg" alt="Weapons-of-Math-Destruction" width="150" align="left"/>
 <br clear="left"/>
 <p>Understand the societal impact of algorithms and safeguard fairness.</p>
 
@@ -176,7 +176,7 @@ This repository aggregates top-tier books, seminal papers, and practical online 
 **Focus:** Rigorous statistical testing of model assumptions  
 **Key Resource:** [*Statistical Inference* by Casella & Berger](https://pages.stat.wisc.edu/~shao/stat610/Casella_Berger_Statistical_Inference.pdf)
 <br><br>
-<img src="images/Statistical-Inference.jpg" alt="Storytelling with Data" width="150" align="left"/>
+<img src="images/Statistical-Inference.jpg" alt="Statistical-Inference" width="150" align="left"/>
 <br clear="left"/>
 <p>Master the art of hypothesis testing in data science.</p>
 
@@ -184,7 +184,7 @@ This repository aggregates top-tier books, seminal papers, and practical online 
 **Focus:** Extracting actionable insights  
 **Key Resource:** [*Data Mining: Concepts and Techniques* by Han, Kamber, & Pei](https://myweb.sabanciuniv.edu/rdehkharghani/files/2016/02/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf)
 <br><br>
-<img src="images/Data-Mining-Concepts-and-Techniques.png" alt="Storytelling with Data" width="150" align="left"/>
+<img src="images/Data-Mining-Concepts-and-Techniques.jpeg" alt="Data-Mining-Concepts-and-Techniques" width="150" align="left"/>
 <br clear="left"/>
 <p>Convert raw data into valuable, actionable knowledge.</p>
 
@@ -192,7 +192,7 @@ This repository aggregates top-tier books, seminal papers, and practical online 
 **Focus:** Leveraging emerging analytics trends  
 **Key Resource:** [*Competing on Analytics* by Davenport & Harris](https://www.google.com/books/edition/Competing_on_Analytics_Updated_with_a_Ne/LW9GDgAAQBAJ?hl=en)
 <br><br>
-<img src="images/Competing-on-Analytics.webp" alt="Storytelling with Data" width="150" align="left"/>
+<img src="images/Competing-on-Analytics.webp" alt="Competing-on-Analytics" width="150" align="left"/>
 <br clear="left"/>
 <p>Learn how innovative analytics drive competitive advantage.</p>
 
