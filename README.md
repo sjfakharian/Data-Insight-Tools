@@ -112,7 +112,7 @@ This repository aggregates top-tier books, seminal papers, and practical online 
 **Focus:** Modeling relationships in networks  
 **Key Resource:** [*Networks, Crowds, and Markets* by Easley & Kleinberg](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book.pdf)
 <br><br>
-<img src="images/Networks-Crowds-and-Markets-Reasoning-about-a-Highly-Connected-World.jpg" alt="Networks-Crowds-and-Markets-Reasoning-about-a-Highly-Connected-World" width="150" align="left"/>
+<img src="images/Networks-Crowds.jpg" alt="Networks Crowds and Markets Reasoning about a Highly Connected World" width="150" align="left"/>
 <br clear="left"/>
 <p>Unravel the complexities of network structures and connectivity.</p>
 
@@ -152,7 +152,7 @@ This repository aggregates top-tier books, seminal papers, and practical online 
 **Focus:** Managing uncertainty in predictions  
 **Key Resource:** [*Uncertainty Quantification* by Ralph C. Smith](https://rsmith.math.ncsu.edu/UQ_TIA/)
 <br><br>
-<img src="images/Uncertainty-Quantification-Theory.jpeg" alt="Uncertainty-Quantification-Theory" width="150" align="left"/>
+<img src="images/Uncertainty-Quantification-Theory.jpg" alt="Uncertainty-Quantification-Theory" width="150" align="left"/>
 <br clear="left"/>
 <p>Navigate the challenges of prediction errors and risk.</p>
 
@@ -192,7 +192,7 @@ This repository aggregates top-tier books, seminal papers, and practical online 
 **Focus:** Leveraging emerging analytics trends  
 **Key Resource:** [*Competing on Analytics* by Davenport & Harris](https://www.google.com/books/edition/Competing_on_Analytics_Updated_with_a_Ne/LW9GDgAAQBAJ?hl=en)
 <br><br>
-<img src="images/Competing-on-Analytics.webp" alt="Competing-on-Analytics" width="150" align="left"/>
+<img src="images/Competing-on-Analytics.jpeg" alt="Competing-on-Analytics" width="150" align="left"/>
 <br clear="left"/>
 <p>Learn how innovative analytics drive competitive advantage.</p>
 
