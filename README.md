@@ -46,8 +46,11 @@ This repository aggregates top-tier books, seminal papers, and practical online 
 
 ## The Anomaly Hunter
 **Focus:** Detecting outliers and irregularities  
-**Key Resource:** “Anomaly Detection: A Survey” by Chandola et al. (2009)  (http://cucis.ece.northwestern.edu/projects/DMS/publications/AnomalyDetection.pdf)
-Explore comprehensive techniques to uncover hidden risks in your data.
+**Key Resource:** [*“Anomaly Detection: A Survey” by Chandola et al. (2009)](http://cucis.ece.northwestern.edu/projects/DMS/publications/AnomalyDetection.pdf)
+<br><br>
+<img src="images/AnomalyDetection.jpeg" alt="Storytelling with Data" width="150" align="left"/>
+<br clear="left"/>
+<p>Explore comprehensive techniques to uncover hidden risks in your data.</p>
 
 ## The Trend Forecaster
 **Focus:** Predicting future events  
