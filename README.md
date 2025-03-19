@@ -43,7 +43,7 @@ Learn how to transform complex data into engaging stories that drive impact.
 
 ## The Insight Weaver
 **Focus:** Crafting compelling data narratives  
-![Storytelling with Data](images/Storytelling with Data- A Data Visualization Guide for Business Professionals.jpg)
+![Storytelling with Data](images/Storytelling%20with%20Data-%20A%20Data%20Visualization%20Guide%20for%20Business%20Professionals.jpg)
 
 
 ## The Anomaly Hunter
