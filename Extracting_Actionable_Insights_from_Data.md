@@ -1,8 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# 
-
----
 
 # Extracting Actionable Insights from Data: A Comprehensive Guide
 
@@ -260,9 +255,9 @@ plt.show()
 
 1. **Data Quality First**:
     - Fix missing values using MICE (Multiple Imputation by Chained Equations)
-    - Detect outliers with IQR: $$
-Q3 + 1.5 \times IQR
-$$
+    - Detect outliers with IQR: 
+Q3 + 1.5 * IQR
+
 2. **Align with Business Goals**:
     - Co-design metrics with stakeholders (e.g., "Focus on recall to capture 90% of fraud cases")
 3. **Iterative Refinement**:
@@ -282,69 +277,5 @@ $$
 
 **Final Recommendation**: Implement a closed-loop system where insights trigger actions (e.g., automated retention emails), and results feed back into model retraining. This creates a self-improving cycle of data-driven decision-making.
 
-<div style="text-align: center">⁂</div>
 
-[^1]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/8532829/ac45654a-0dbc-4cd1-9726-866912ff05b6/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf
-
-[^2]: http://hanj.cs.illinois.edu/pdf/vldb95.pdf
-
-[^3]: https://www.techtarget.com/searchbusinessanalytics/definition/association-rules-in-data-mining
-
-[^4]: https://journal.irpi.or.id/index.php/predatecs/article/download/863/541/6238
-
-[^5]: https://rasbt.github.io/mlxtend/user_guide/frequent_patterns/association_rules/
-
-[^6]: https://mhahsler.github.io/Introduction_to_Data_Mining_R_Examples/book/association-analysis-advanced-concepts.html
-
-[^7]: https://www2.cs.sfu.ca/CourseCentral/310/qyang/lectures/association.pdf
-
-[^8]: http://hanj.cs.illinois.edu/bk3/bibnotes/07.pdf
-
-[^9]: https://pmc.ncbi.nlm.nih.gov/articles/PMC3540474/
-
-[^10]: https://www.upgrad.com/blog/association-rule-mining-an-overview-and-its-applications/
-
-[^11]: https://media.neliti.com/media/publications/430057-evaluation-of-apriori-fp-growth-and-ecla-671581e5.pdf
-
-[^12]: https://scholar.google.com/citations?user=Kv9AbjMAAAAJ
-
-[^13]: https://wires.onlinelibrary.wiley.com/doi/10.1002/widm.10
-
-[^14]: http://hanj.cs.illinois.edu/pdf/kdood95.pdf
-
-[^15]: https://ysu1989.github.io/courses/sp20/cse5243/Han_Chapter07.pdf
-
-[^16]: https://www-users.cse.umn.edu/~kumar/dmbook/dmslides/chap7_extended_association_analysis.pdf
-
-[^17]: http://hanj.cs.illinois.edu/pdf/kdd97short.pdf
-
-[^18]: https://en.wikipedia.org/wiki/Association_rule_learning
-
-[^19]: https://stackoverflow.com/questions/62457495/how-to-interpret-results-of-mlxtends-association-rule
-
-[^20]: https://ocw.snu.ac.kr/sites/default/files/NOTE/10436.pdf
-
-[^21]: http://library.virginia.edu/data/articles/bootstrapped-association-rule-mining-r
-
-[^22]: https://stats.stackexchange.com/questions/167439/what-is-the-difference-between-apriori-and-eclat-algorithms
-
-[^23]: https://dbdmg.polito.it/dbdmg_web/wp-content/uploads/2024/04/Lab5_association_rules_solutions.pdf
-
-[^24]: https://www-users.cse.umn.edu/~kumar001/dmbook/slides/chap6_advanced_association_analysis.pdf
-
-[^25]: https://docs.oracle.com/en/database/oracle/oracle-database/19/dmcon/association.html
-
-[^26]: https://www.kaggle.com/code/andrewtoh78/market-basket-analysis-apriori-eclat-fp-growth
-
-[^27]: https://rasbt.github.io/mlxtend/api_modules/mlxtend.frequent_patterns/association_rules/
-
-[^28]: http://r-statistics.co/Association-Mining-With-R.html
-
-[^29]: https://www2.cs.uh.edu/~ceick/6340/grue-assoc.pdf
-
-[^30]: http://www.cs.put.poznan.pl/jstefanowski/sed/DM11-association-rules-sequences.pdf
-
-[^31]: https://myweb.sabanciuniv.edu/rdehkharghani/files/2016/02/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf
-
-[^32]: https://doc.lagout.org/Others/Data Mining/Association Rule Mining_ Models and Algorithms [Zhang \& Zhang 2002-05-28].pdf
 
