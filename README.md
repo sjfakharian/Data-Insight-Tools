@@ -78,6 +78,10 @@ This repository aggregates top-tier books, seminal papers, and practical online 
 <br clear="left"/>
 <p>Master modern forecasting techniques with practical examples in R.</p>
 
+**📚 More details**
+- [The Trend Forecaster: Predicting future events](./Forecasting_Methods.md)
+<br clear="left"/>
+
 ## The Segment Architect
 **Focus:** Data segmentation and clustering  
 **Key Resource:** [*Data Mining: Concepts and Techniques* by Han, Kamber, & Pei](https://myweb.sabanciuniv.edu/rdehkharghani/files/2016/02/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf)
@@ -86,6 +90,10 @@ This repository aggregates top-tier books, seminal papers, and practical online 
 <br clear="left"/>
 <p>Dive into methodologies for discovering meaningful groups within your data.</p>
 
+**📚 More details**
+- [The Segment Architect: Data segmentation and clustering](./Data_Segmentation_and_Clustering.md)
+<br clear="left"/>
+
 ## The Association Mapper
 **Focus:** Uncovering associations and dependencies  
 **Key Resource:** [*Association rule mining chapter in *Data Mining: Concepts and Techniques*](https://myweb.sabanciuniv.edu/rdehkharghani/files/2016/02/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf)
@@ -93,6 +101,10 @@ This repository aggregates top-tier books, seminal papers, and practical online 
 <img src="images/Data-Mining-Concepts-and-Techniques.jpeg" alt="Data-Mining-Concepts-and-Techniques" width="150" align="left"/>
 <br clear="left"/>
 <p>Learn to map relationships and uncover market basket insights.</p>
+
+**📚 More details**
+- [The Association Mapper: Uncovering associations and dependencies](./Association_Rule_Mining.md)
+<br clear="left"/>
 
 ## The Causal Connector
 **Focus:** Inferring cause and effect  
