@@ -1,6 +1,6 @@
-## 📚 **Data-Insight-Tools: Curated Analytics & Predictive Methods**
+## 📚 **Data-Insight-Tools:  Analytics & Predictive Methods**
 
-This repository is a **curated list of educational resources and tools** I have gathered over time from various courses, books, and training programs related to **data analytics and predictive methodologies**. Despite the abundance of content in this field, I found that a **comprehensive, well-structured resource** was missing—so I decided to create one! 🚀  
+This repository is a **list of educational resources and tools** I have gathered over time from various courses, books, and training programs related to **data analytics and predictive methodologies**. Despite the abundance of content in this field, I found that a **comprehensive, well-structured resource** was missing—so I decided to create one! 🚀  
 
 ### 🎯 **My Goal:**
 I aim to gradually enrich this repository by adding **real-world examples and Python code** for each method, making it a go-to reference for anyone who wants to **enter the world of data analytics**. This collection covers everything from **anomaly detection, trend forecasting, and segmentation** to **causal inference, risk assessment, and ethical AI**—designed to help aspiring data professionals build a solid foundation.
