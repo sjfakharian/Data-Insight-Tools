@@ -1,8 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# 
-
----
 
 # Data Segmentation and Clustering: A Comprehensive Guide Based on "Data Mining: Concepts and Techniques"
 
@@ -605,16 +600,16 @@ min_samples_range = [3, 5, 10, 15]
 best_params, param_results = find_optimal_dbscan_params(X, eps_range, min_samples_range)
 
 print(f"Best DBSCAN parameters for the moons dataset:")
-print(f"eps = {best_params[^0]}, min_samples = {best_params[^1]}")
+print(f"eps = {best_params[^0]}, min_samples = {best_params}")
 
 # Apply DBSCAN with optimal parameters
-dbscan = DBSCAN(eps=best_params[^0], min_samples=best_params[^1])
+dbscan = DBSCAN(eps=best_params[^0], min_samples=best_params)
 labels = dbscan.fit_predict(X)
 
 # Plot optimal results
 plt.figure(figsize=(10, 8))
 plt.scatter(X[:, 0], X[:, 1], c=labels, cmap='viridis', s=50)
-plt.title(f"Optimal DBSCAN (eps={best_params[^0]}, min_samples={best_params[^1]})")
+plt.title(f"Optimal DBSCAN (eps={best_params[^0]}, min_samples={best_params})")
 plt.xlabel("Feature 1")
 plt.ylabel("Feature 2")
 plt.show()
@@ -884,8 +879,4 @@ Clustering helps organize large collections of text documents into meaningful gr
 3. **Search Result Organization**: Clustering search results to present diverse viewpoints or aspects of a query.
 
 Data segmentation and clustering represent foundational techniques in data mining with applications spanning virtually every industry. As data continues to grow in volume and complexity, these methods will only become more valuable for extracting meaningful insights and supporting data-driven decision-making.
-
-<div style="text-align: center">⁂</div>
-
-[^1]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/8532829/ac45654a-0dbc-4cd1-9726-866912ff05b6/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf
 
