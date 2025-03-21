@@ -11,7 +11,8 @@ I aim to gradually enrich this repository by adding **real-world examples and Py
 - 🎓 **For All Levels:** Useful for beginners entering the field and professionals looking to deepen their expertise.
 
 Stay tuned as I continue to **expand and refine** this resource—your contributions, feedback, and suggestions are always welcome! 🙌
-
+#### 🙌 Sajjad Fakhatian
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sajjadfakharian/)
 
 ## Table of Contents
 - [Overview](#overview)
