@@ -1,16 +1,10 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# 
-
----
-
 # Comprehensive Guide to Forecasting Methods from Hyndman and Athanasopoulos
 
 The book "Forecasting: Principles and Practice" by Rob J. Hyndman and George Athanasopoulos represents a comprehensive resource for forecasting techniques. While the book uses R for implementation, this report adapts the core principles to Python as requested, providing detailed explanations of key forecasting methods along with code examples and applications.
 
 ## Introduction to Time Series Forecasting
 
-Time series forecasting involves using historical time-ordered data to predict future values. The textbook by Hyndman and Athanasopoulos emphasizes understanding time series patterns before applying forecasting methods[^1]. Forecasting approaches typically fall into several categories:
+Time series forecasting involves using historical time-ordered data to predict future values. The textbook by Hyndman and Athanasopoulos emphasizes understanding time series patterns before applying forecasting methods. Forecasting approaches typically fall into several categories:
 
 - Statistical methods (ARIMA, ETS)
 - Decomposition-based approaches
@@ -716,8 +710,4 @@ The most important principles to remember are:
 5. **Combine methods when possible**: Forecast combinations often outperform individual methods
 
 The field of forecasting continues to evolve, with machine learning and deep learning approaches becoming increasingly important alongside traditional statistical methods. However, the fundamental principles of understanding time series data, careful model selection, and proper validation remain essential regardless of the specific technique employed.
-
-<div style="text-align: center">⁂</div>
-
-[^1]: https://otexts.com/fpp3/
 
