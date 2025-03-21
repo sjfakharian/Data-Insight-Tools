@@ -1,8 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# 
-
----
 
 # Association Rule Mining: Concepts, Algorithms, and Applications
 
@@ -245,8 +240,4 @@ Adaptive algorithms like **FP-Stream** maintain frequent itemsets over time usin
 ---
 
 Association rule mining remains a cornerstone of data mining, enabling actionable insights across industries. By leveraging efficient algorithms and robust evaluation metrics, practitioners can extract meaningful patterns from complex datasets[^1].
-
-<div style="text-align: center">⁂</div>
-
-[^1]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/8532829/ac45654a-0dbc-4cd1-9726-866912ff05b6/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf
 
