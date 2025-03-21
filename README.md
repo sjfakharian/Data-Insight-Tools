@@ -50,8 +50,11 @@ This repository aggregates top-tier books, seminal papers, and practical online 
 <img src="images/Storytelling-with-Data.jpg" alt="Storytelling with Data" width="150" align="left"/>
 <br clear="left"/>
 <p>Learn how to transform complex data into engaging stories that drive impact.</p>
-## 📚  More details
-- [The Insight Weaver: Crafting Compelling Data Narratives](insight_weaver_guide.md)
+
+**📚 More details**
+- [The Insight Weaver: Crafting Compelling Data Narratives](./Insight_Weaver_Guide.md)
+<br clear="left"/>
+
 
 ## The Anomaly Hunter
 **Focus:** Detecting outliers and irregularities  
@@ -60,6 +63,11 @@ This repository aggregates top-tier books, seminal papers, and practical online 
 <img src="images/AnomalyDetection.jpeg" alt="AnomalyDetection" width="150" align="left"/>
 <br clear="left"/>
 <p>Explore comprehensive techniques to uncover hidden risks in your data.</p>
+
+**📚 More details**
+- [The Anomaly Hunter: Detecting outliers and irregularities](./The_Anomaly_Hunter.md)
+<br clear="left"/>
+
 
 ## The Trend Forecaster
 **Focus:** Predicting future events  
