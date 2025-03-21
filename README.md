@@ -50,6 +50,8 @@ This repository aggregates top-tier books, seminal papers, and practical online 
 <img src="images/Storytelling-with-Data.jpg" alt="Storytelling with Data" width="150" align="left"/>
 <br clear="left"/>
 <p>Learn how to transform complex data into engaging stories that drive impact.</p>
+## 📚  More details
+- [The Insight Weaver: Crafting Compelling Data Narratives](insight_weaver_guide.md)
 
 ## The Anomaly Hunter
 **Focus:** Detecting outliers and irregularities  
