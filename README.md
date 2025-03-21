@@ -54,7 +54,9 @@ This repository aggregates top-tier books, seminal papers, and practical online 
 
 **📚 More details**
 - [The Insight Weaver: Crafting Compelling Data Narratives](./Insight_Weaver_Guide.md)
+- Project examples (Coming soon!)
 <br clear="left"/>
+
 
 
 ## The Anomaly Hunter
@@ -67,6 +69,7 @@ This repository aggregates top-tier books, seminal papers, and practical online 
 
 **📚 More details**
 - [The Anomaly Hunter: Detecting outliers and irregularities](./The_Anomaly_Hunter.md)
+- Project examples (Coming soon!)
 <br clear="left"/>
 
 
@@ -80,6 +83,7 @@ This repository aggregates top-tier books, seminal papers, and practical online 
 
 **📚 More details**
 - [The Trend Forecaster: Predicting future events](./Forecasting_Methods.md)
+- Project examples (Coming soon!)
 <br clear="left"/>
 
 ## The Segment Architect
@@ -92,6 +96,7 @@ This repository aggregates top-tier books, seminal papers, and practical online 
 
 **📚 More details**
 - [The Segment Architect: Data segmentation and clustering](./Data_Segmentation_and_Clustering.md)
+- Project examples (Coming soon!)
 <br clear="left"/>
 
 ## The Association Mapper
@@ -104,6 +109,7 @@ This repository aggregates top-tier books, seminal papers, and practical online 
 
 **📚 More details**
 - [The Association Mapper: Uncovering associations and dependencies](./Association_Rule_Mining.md)
+- Project examples (Coming soon!)
 <br clear="left"/>
 
 ## The Causal Connector
@@ -217,6 +223,11 @@ This repository aggregates top-tier books, seminal papers, and practical online 
 <img src="images/Data-Mining-Concepts-and-Techniques.jpeg" alt="Data-Mining-Concepts-and-Techniques" width="150" align="left"/>
 <br clear="left"/>
 <p>Convert raw data into valuable, actionable knowledge.</p>
+
+**📚 More details**
+- [The Knowledge Amplifier: Extracting actionable insights ](./Extracting_Actionable_Insights_from_Data)
+- Project examples (Coming soon!)
+<br clear="left"/>
 
 ## The Visionary Innovator
 **Focus:** Leveraging emerging analytics trends  
