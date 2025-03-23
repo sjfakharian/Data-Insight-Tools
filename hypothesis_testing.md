@@ -1,13 +1,5 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
 
-# 
-
----
-
-# You are an expert in **hypothesis testing, statistical inference, and model validation**. Using methodologies, principles, and case studies from *Statistical Inference* by Casella \& Berger, provide a detailed and comprehensive explanation of the methods, tools, and techniques for conducting rigorous hypothesis tests to validate model assumptions.
-
-✅ **Detailed Requirements:**
-
+# Hypothesis Testing and Model Assumptions
 ---
 
 ### 1. **Introduction to Hypothesis Testing and Model Assumptions**
@@ -460,8 +452,4 @@ Hypothesis testing is applied across various fields to ensure model validity and
     * **PyMC3:** A probabilistic programming library for Bayesian statistical modeling and hypothesis testing.
 
 By applying rigorous statistical tests and validating model assumptions, data scientists, researchers, and business analysts can make more informed decisions and ensure the reliability of their findings.
-
-<div style="text-align: center">⁂</div>
-
-[^1]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/59864626/99e362f3-a646-4c38-8414-12bae33a6c0d/Statistical-Inference-by-Casella-Berger.pdf
 
